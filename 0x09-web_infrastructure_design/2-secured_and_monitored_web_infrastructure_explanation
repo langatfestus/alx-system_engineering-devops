@@ -2,7 +2,7 @@ Explanation:
 
 The proposed infrastructure consists of three servers. The first server is a web/application server, the second server is a database server, and the third server is a web/application/monitoring server. There are also three firewalls to protect the servers.
 
-The website www.foobar.com will be served over HTTPS, using an SSL certificate to encrypt traffic. This is important for security purposes, as it helps protect sensitive information from being intercepted by third parties.
+The website will be served over HTTPS, using an SSL certificate to encrypt traffic. This is important for security purposes, as it helps protect sensitive information from being intercepted by third parties.
 
 Monitoring is used to keep track of the health and performance of the servers and the website. In this case, we are using monitoring clients to collect data from the servers and send it to a monitoring tool, such as SumoLogic. This allows us to identify and troubleshoot issues quickly, before they become serious problems.
 

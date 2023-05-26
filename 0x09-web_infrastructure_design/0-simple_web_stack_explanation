@@ -1,4 +1,4 @@
-Suppose a user wants to access www.foobar.com, they will enter the domain name into their web browser. The browser will first perform a DNS (Domain Name System) lookup to resolve the IP address of the web server where the website is hosted. This is done by querying the DNS servers responsible for the foobar.com domain.
+Suppose a user wants to access the dormain name, they will enter the domain name into their web browser. The browser will first perform a DNS (Domain Name System) lookup to resolve the IP address of the web server where the website is hosted. This is done by querying the DNS servers responsible for the foobar.com domain.
 
 Server:
 A server is a computer system that provides services to other computers or devices on a network. In this case, the server will host the website files, application server, and database.
